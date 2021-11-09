@@ -28,5 +28,5 @@ function leetspeak($str){
     } 
 }
 
-leetspeak('forward always')
+leetspeak('forward always');
 ?>

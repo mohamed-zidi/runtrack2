@@ -1,0 +1,1 @@
+SELECT * FROM salles INNER JOIN etage WHERE etage.id = id_etage

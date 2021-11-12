@@ -1,0 +1,1 @@
+SELECT etage.nom, MAX(salles.capacite), salles.nom AS 'BIGGEST ROOM' FROM salles INNER JOIN etage ON etage.id = salles.id_etage
